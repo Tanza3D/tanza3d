@@ -18,6 +18,7 @@ Hi, I'm Tanza!
     Main Projects/Contributions
 </h1>
 
-<img width="100%" src="img/untone.png" alt="UNTONE is a small team of people, working on various projects across multiple areas, their most notable works includes Anthera, an art sharing website, and UNTONE Music, a record label based in the UK publishing music from all around the world!">
-<img width="100%" src="img/osu.png" alt="UNTONE is a small team of people, working on various projects across multiple areas, their most notable works includes Anthera, an art sharing website, and UNTONE Music, a record label based in the UK publishing music from all around the world!">
-<img width="100%" src="img/osekai.png" alt="Osekai is a community-ran website for osu! primarily focused at providing solutions for medals (achievments) within the game, though also has features to track player progress, view worldwide leaderboards sorted by various statistics, and more.">
+<a href="https://untone.uk" target="_blank"><img width="100%" src="img/untone.png" alt="UNTONE is a small team of people, working on various projects across multiple areas, their most notable works includes Anthera, an art sharing website, and UNTONE Music, a record label based in the UK publishing music from all around the world!"></a>
+<a href="https://osu.ppy.sh" target="_blank"><img width="100%" src="img/osu.png" alt="I’m one of the designers on osu!, primarily focusing on newsposts, badges, teams, and other endeavours outside of the main website and client!
+I help out with the client and website on occasion when needed."></a>
+<a href="https://osekai.net" target="_blank"><img width="100%" src="img/osekai.png" alt="Osekai is a community-ran website for osu! primarily focused at providing solutions for medals (achievments) within the game, though also has features to track player progress, view worldwide leaderboards sorted by various statistics, and more."></a>
